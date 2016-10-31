@@ -1,0 +1,15 @@
+header
+{
+  padding: 0 40px;
+}
+
+.content
+{
+  padding-top: 60px;
+}
+
+#logo
+{
+  color: white;
+  font-weight: bold;
+}
